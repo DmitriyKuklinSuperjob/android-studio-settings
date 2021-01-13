@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="webp" type="Image" />
       <mapping pattern="*..ft" type="PLAIN_TEXT" />
+      <mapping ext="ftl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
