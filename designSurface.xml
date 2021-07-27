@@ -1,0 +1,9 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="TestFeature/src/main/res/layout/screen_test_feature.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+</application>
