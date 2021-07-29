@@ -3,6 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="TestFeature/src/main/res/layout/screen_test_feature.xml" value="0.1" />
+        <entry key="feature_modules/feature_vacancy_subscription_list/src/main/res/layout/base_cell.xml" value="0.13541666666666666" />
       </map>
     </option>
   </component>
