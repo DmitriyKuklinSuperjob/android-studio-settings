@@ -3,6 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="SuperJobClient/src/main/res/layout/item_resume_flat_card.xml" value="0.11828774062816616" />
         <entry key="TestFeature/src/main/res/layout/screen_test_feature.xml" value="0.1" />
         <entry key="feature_modules/feature_specialization/src/main/res/layout/fragment_specialization.xml" value="0.11828774062816616" />
         <entry key="feature_modules/feature_vacancy_subscription_list/src/main/res/layout/base_cell.xml" value="0.13541666666666666" />
