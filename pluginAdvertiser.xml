@@ -1398,6 +1398,11 @@
                       <FeaturePluginData displayName="TestNG" pluginName="TestNG" pluginId="TestNG-J" />
                     </value>
                   </entry>
+                  <entry key="ioKotest">
+                    <value>
+                      <FeaturePluginData displayName="Kotest" pluginName="Kotest" pluginId="kotest-plugin-intellij" />
+                    </value>
+                  </entry>
                 </map>
               </option>
             </FeaturePluginsList>
