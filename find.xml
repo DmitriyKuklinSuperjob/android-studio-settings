@@ -5,7 +5,6 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,8 +13,8 @@
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*.kt</mask>
-    <mask>*.toml</mask>
     <mask>*.kts</mask>
     <mask>*.java</mask>
+    <mask>*.toml</mask>
   </component>
 </application>
