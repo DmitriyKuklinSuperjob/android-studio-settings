@@ -14,7 +14,7 @@
     <mask>*.xml</mask>
     <mask>*.kt</mask>
     <mask>*.kts</mask>
-    <mask>*.java</mask>
     <mask>*.toml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
