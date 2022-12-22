@@ -14,5 +14,6 @@
     <mask>*.toml</mask>
     <mask>*.java</mask>
     <mask>*.kts</mask>
+    <mask>*.ftl</mask>
   </component>
 </application>
