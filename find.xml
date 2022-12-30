@@ -10,10 +10,10 @@
     <mask>*Test.kt</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
-    <mask>*.toml</mask>
     <mask>*.java</mask>
     <mask>*.ftl</mask>
     <mask>*.kt</mask>
     <mask>*.kts</mask>
+    <mask>*.toml</mask>
   </component>
 </application>
